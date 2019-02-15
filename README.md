@@ -41,7 +41,7 @@ Add the module to your modules array in your `config.js`.
 
 ## Credits
 
-Thanks for the sceleton functionality of the [MMM-HTTPRequestDisplay](https://github.com/Eunanibus/MMM-HTTPRequestDisplay) By Eunan Camilleri.
+Thanks for the skeleton functionality of the [MMM-HTTPRequestDisplay](https://github.com/Eunanibus/MMM-HTTPRequestDisplay) By Eunan Camilleri.
 
 ## License
 
