@@ -4,8 +4,8 @@ This a module for Magic Mirror² to show fight schedules data from airports in N
 The module uses XML data format from Avinor in Norway. The URL has to be updated based on airport name.
 Please see [Avinor data format](https://avinor.no/konsern/tjenester/flydata/flydata-i-xml-format) for details.
 
-It is basically a modified version of the [MMM-Tabulator](https://github.com/E3V3A/MMM-Tabulator=), original idea comes from E3V3A.
-However it uses https and node_helper.js to send the querry.
+It is based on the [MMM-HTTPRequestDisplay](https://github.com/Eunanibus/MMM-HTTPRequestDisplay) By Eunan Camilleri.
+However it uses https and node_helper.js.
 
 ## Installation
 
@@ -38,6 +38,10 @@ Add the module to your modules array in your `config.js`.
                         }
 },
 ```
+
+## Credits
+
+Thanks for the sceleton functionality of the [MMM-HTTPRequestDisplay](https://github.com/Eunanibus/MMM-HTTPRequestDisplay) By Eunan Camilleri.
 
 ## License
 
