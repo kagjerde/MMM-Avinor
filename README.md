@@ -1,5 +1,5 @@
 # MMM-Avinor
-This a module for [Magic Mirror²](https://github.com/MichMich/MagicMirror) to show fight schedules from airports in Norway.
+This a module for [Magic Mirror²](https://github.com/MichMich/MagicMirror) to show fight schedules for airports in Norway.
 
 The module uses XML data format from Avinor in Norway. The URL has to be updated based on airport name.
 Please see [Avinor data format](https://avinor.no/konsern/tjenester/flydata/flydata-i-xml-format) for details.
