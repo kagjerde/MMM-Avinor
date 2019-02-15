@@ -18,7 +18,9 @@ npm install # this can take a while
 ```
 ## Screenshot
 
-[Avinor.PNG](https://github.com/kagjerde/MMM-Avinor/blob/master/MMM-Avinor-screenshot.png)
+Screenshot of the output:
+
+![Full](MMM-Avinor-screenshot.png)
 
 ## Configuration
 
