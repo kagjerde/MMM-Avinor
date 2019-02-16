@@ -4,8 +4,7 @@ This is a module for [Magic Mirror²](https://github.com/MichMich/MagicMirror) t
 The module uses XML data format from Avinor in Norway. The URL has to be updated based on airport name.
 Please see [Avinor data format](https://avinor.no/konsern/tjenester/flydata/flydata-i-xml-format) for details.
 
-It is based on the [MMM-HTTPRequestDisplay](https://github.com/Eunanibus/MMM-HTTPRequestDisplay) By Eunan Camilleri.
-But uses https and node_helper.js to get access to the Avinor data.
+It is based on the [MMM-HTTPRequestDisplay](https://github.com/Eunanibus/MMM-HTTPRequestDisplay) by Eunan Camilleri, but uses https and node_helper.js to get access to the Avinor data.
 
 ## Installation
 
