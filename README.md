@@ -31,7 +31,7 @@ Add the module to your modules array in your `config.js`.
                config: {
                                 refreshInterval: 5 * 60 * 1000, // every 5 minutes
                                 httpRequestURL: "https://flydata.avinor.no/XmlFeed.asp?TimeFrom=1&TimeTo=12&airport=BGO&lastUpdate=",
-                                tableLength: 10,
+                                tableLength: 5,
                                 minTimeDiff: 2,
                                 timeZone: 1,
                         }
