@@ -19,7 +19,7 @@ npm install # this can take a while
 
 Screenshot of the output:
 
-![Full](MMM-Avinor-screenshot.png)
+![Full](Avinor_screenshot.png)
 
 ## Configuration
 
