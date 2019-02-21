@@ -21,9 +21,9 @@ npm install # this can take a while
 
 Screenshot of the output:
 
-![Layout 0](Screenshot 0.png)
-![Layout 1](Screenshot 1.png)
-![Layout 2](Screenshot 2.png)
+![Layout 0](Screenshot0.png)
+![Layout 1](Screenshot1.png)
+![Layout 2](Screenshot2.png)
 
 ## Configuration
 
