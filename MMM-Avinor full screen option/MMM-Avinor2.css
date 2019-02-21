@@ -1,0 +1,115 @@
+/*
+ *
+ * MMM-Avinor
+ *
+ * 
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */
+ .icon {
+    height: auto; 
+    width: auto; 
+    max-width: 100px; 
+    max-height: 100px;
+    padding: 0 0;
+    vertical-align: middle;
+    position: absolute;
+    right: 0px;
+}
+
+.Mytable {
+    text-align: center;
+    font-size: 100%;
+    word-wrap: normal;
+    color:rgb(211, 211, 211);
+    table-layout: fixed;
+}
+
+.Mytd {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom:1px solid rgb(131, 131, 131);
+}
+
+.Myth {
+    border-bottom:1px solid white;
+    text-align: center;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 95px;
+}
+
+.Mythg {
+    border-bottom:1px solid white;
+    text-align: left;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+    padding-left: 0px;
+    padding-right: 10px;
+    width: 300px;
+}
+
+.Mytr:nth-child(even) {
+    background-color:  #000000;
+}
+
+.Mystatus:nth-child(even) {
+    background-color:  #000000;
+    text-align: left;
+    border-bottom:1px solid rgb(131, 131, 131);
+}
+
+.trB:nth-child(even) {
+    background-color: #000000;
+    color:rgb(231, 149, 35);
+}
+
+.delay {
+    /*background-color: #000000;*/
+    color:rgb(231, 149, 35);
+    text-align: left;
+    border-bottom:1px solid rgb(131, 131, 131);
+}
+
+.divider {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 40px;
+    font-size: 150%;
+}
+
+.Mytr:nth-child(odd) {
+    background-color: #000000; /*was #000000*/
+}
+
+.Mystatus:nth-child(odd) {
+    /*background-color:   #703c3c;*/
+    text-align: left;
+    border-bottom:1px solid rgb(131, 131, 131);
+}
+
+.trB:nth-child(odd) {
+    background-color: #000000; /*was #000000*/
+    color:rgb(231, 149, 35);
+}
+
+.symbol {
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+    -ms-transform: translate(0, 2px); /* IE 9 */
+    -webkit-transform: translate(0, 2px); /* Safari */
+    transform: translate(0, 2px);
+}
+
+.tag {
+	width: 20px;
+    height: 20px;   
+}
