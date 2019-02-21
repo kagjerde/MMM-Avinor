@@ -19,10 +19,11 @@ npm install # this can take a while
 ```
 ## Screenshot
 
-Screenshot of the output:
-
+Layout 0:
 ![Layout 0](Screenshot0.png)
+Layout 1:
 ![Layout 1](Screenshot1.png)
+Layout 2:
 ![Layout 2](Screenshot2.png)
 
 ## Configuration
