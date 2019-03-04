@@ -39,7 +39,7 @@ Add the module to your modules array in your `config.js`.
                                 tableLength: 5,
                                 minTimeDiff: 2,
                                 timeZone: 1,
-                                layout:0,
+                                layout:2,
                         }
 },
 ```
