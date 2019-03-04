@@ -1,0 +1,123 @@
+/*
+ *
+ * MMM-Avinor
+ *
+ * 
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */
+ .MMM-Avinor .icon {
+    height: auto; 
+    width: auto; 
+    max-width: 150px; 
+    max-height: 150px;
+    padding: 0 20px;
+    vertical-align: middle;
+    position: absolute;
+    right: 0px;
+}
+
+.MMM-Avinor .Mytable {
+    text-align: center;
+    font-size: 100%;
+    word-wrap: normal;
+    color:rgb(211, 211, 211);
+    table-layout: auto;
+}
+
+.MMM-Avinor .Mytd {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom:1px solid rgb(131, 131, 131);
+}
+
+.MMM-Avinor .Myth {
+    border-bottom:1px solid white;
+    text-align: center;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 95px;
+}
+
+.MMM-Avinor .Mythg {
+    border-bottom:1px solid white;
+    text-align: left;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+    padding-left: 0px;
+    padding-right: 10px;
+    width: 300px;
+}
+
+.MMM-Avinor .Mytr:nth-child(even) {
+    background-color:  #000000;
+}
+
+.MMM-Avinor .Mystatus:nth-child(even) {
+    background-color:  #000000;
+    text-align: left;
+    border-bottom:1px solid rgb(131, 131, 131);
+}
+
+.MMM-Avinor .trB:nth-child(even) {
+    background-color: #000000;
+    color:rgb(231, 149, 35);
+}
+
+.MMM-Avinor .delay {
+    /*background-color: #000000;*/
+    color:rgb(231, 149, 35);
+    text-align: left;
+    border-bottom:1px solid rgb(131, 131, 131);
+}
+
+.MMM-Avinor .divider {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 40px;
+    font-size: 150%;
+}
+
+.MMM-Avinor .Mytr:nth-child(odd) {
+    background-color: #000000; /*was #000000*/
+}
+
+.MMM-Avinor .Mystatus:nth-child(odd) {
+    /*background-color:   #703c3c;*/
+    text-align: left;
+    border-bottom:1px solid rgb(131, 131, 131);
+}
+
+.MMM-Avinor .trB:nth-child(odd) {
+    background-color: #000000; /*was #000000*/
+    color:rgb(231, 149, 35);
+}
+
+.MMM-Avinor .symbol {
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+    -ms-transform: translate(0, 2px); /* IE 9 */
+    -webkit-transform: translate(0, 2px); /* Safari */
+    transform: translate(0, 2px);
+}
+
+.MMM-Avinor .tag {
+	width: 20px;
+    height: 20px;   
+}
+
+.MMM-Avinor .dimmed {
+    color: #666;
+    font-size: 20px;
+    line-height: 25px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 300;
+}
